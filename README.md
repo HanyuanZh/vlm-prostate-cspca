@@ -1,6 +1,7 @@
-# Inconsistent Multimodal Integration in Vision-Language Models for Clinical Decision-Making
+# Multimodal Integration in VLMs for csPCa Detection
 
-Inference code for the paper of the same title.
+Inference code for the paper *Exploring Multimodal Integration in Vision-Language Models
+for Clinical Significant Prostate Cancer Detection*.
 
 - **Data:** https://drive.google.com/drive/folders/12EuUeEnfmpzD5WPda4lcMLWiCg7Y9W6H?usp=sharing
 - **Supplementary material:** https://drive.google.com/drive/folders/1kaG-lbmMekBJ13rVCp4zTkwG3vpGOkfL?usp=sharing
